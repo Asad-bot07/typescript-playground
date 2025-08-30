@@ -28,16 +28,8 @@ This repo grows as I explore new concepts, with beginner-friendly exercises, exa
 |   └── 📄 tsconfig.json
 |
 ├── 📂 Practice
-|    ├── 📄 01Question.js
-|    ├── 📄 01Question.ts
-|    ├── 📄 02Question.js
-|    ├── 📄 02Question.ts
-|    ├── 📄 03Question.js
-|    ├── 📄 03Question.ts
-|    ├── 📄 04Question.js
-|    ├── 📄 04Question.ts
 |    ├── 📝 Questions.md
-|    └── 📄 tsconfig.json
+|    └── 📄 Contains solved problems
 ├── 📝 README.md
 ```
 
