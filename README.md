@@ -5,8 +5,8 @@
 ![Forks](https://img.shields.io/github/forks/Asad-bot07/typescript-playground?style=flat&logo=github)
 ![Visitors](https://komarev.com/ghpvc/?username=Asad-bot07&label=Profile%20Views&color=0e75b6&style=flat)
 
-<!-- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=flat) -->
 ![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
+<!-- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=flat) -->
 Welcome to **TypeScript Playground** a hands-on repository where I learn and practice TypeScript step by step.  
 This repo grows as I explore new concepts, with beginner-friendly exercises, examples, and solutions that make it a useful resource for both learning and revision. ✨
 
@@ -70,7 +70,7 @@ node 01Question.js
 
 ## 📝 Practice Questions
 
-All the questions are listed inside 👉 ![Questions.md](/Practice/Questions.md)
+All the questions are listed inside 👉 [Questions.md](/Practice/Questions.md)
 
 ## 🤝 Contributing
 ```
