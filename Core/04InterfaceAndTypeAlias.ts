@@ -83,3 +83,4 @@ let smth : mul
 
 function anth(obj : mul){} // it can take either number,string or null
 
+
