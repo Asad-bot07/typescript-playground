@@ -9,3 +9,15 @@ function getUser(obj) {
     obj.name;
 }
 getUser({ name: "Asad", age: 19, email: "Hussain" });
+function getInfo(obj) {
+    console.log(obj.gender);
+}
+getInfo({ name: " Asad", age: 19 });
+getInfo({ name: "Asad", age: 19, gender: "Male" });
+function test(obj) {
+    obj.age; // from the first interface
+    obj.course; // from the second interface
+}
+let a;
+let smth;
+function anth(obj) { } // it can take either number,string or null
