@@ -17,14 +17,7 @@ This repo grows as I explore new concepts, with beginner-friendly exercises, exa
 
 ```
 ├── 📂 Core
-|   ├── 📄 01Intro.js
-|   ├── 📄 01Intro.ts
-|   ├── 📄 02Data_Types.js
-|   ├── 📄 02Data_Types.ts
-|   ├── 📄 03TypeInferance.js
-|   ├── 📄 03TypeInferance.ts
-|   ├── 📄 04InterfaceAndTypeAlias.js
-|   ├── 📄 04InterfaceAndTypeAlias.ts
+|   ├── 📄 Core concept explanation with examples
 |   └── 📄 tsconfig.json
 |
 ├── 📂 Practice
