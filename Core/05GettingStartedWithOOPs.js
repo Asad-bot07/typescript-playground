@@ -8,5 +8,7 @@ class Device {
         this.category = "touchscreen";
     }
 }
-let a55 = new Device();
+// An object is nothing but an instance of class
+// A class is a blueprint of an object
+let a55 = new Device(); // creating obj for accessing the properties of the class
 let s24 = new Device();
