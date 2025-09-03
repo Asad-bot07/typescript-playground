@@ -35,3 +35,13 @@ class Model extends Mobile {
     }
 }
 const object = new Model();
+// Bonus
+// If you want to change the value of a var in a class use "readonly" keyword
+class Laptop {
+    constructor(brand = "HP", price) {
+        this.brand = brand;
+        this.price = price;
+        console.log(this.brand, this.price);
+    }
+}
+const obj4 = new Laptop("", 150000);
