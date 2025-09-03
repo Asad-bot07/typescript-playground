@@ -18,3 +18,20 @@ class Car1 {
 }
 const obj1 = new Car1("Aizen");
 console.log(obj1.name); // throws an error :- Property 'name' is private and only accessible within class 'Car1'.
+// Protected
+// Protected is nothing but like private but it'll also be accessible in the extended class and not outside the class
+class Mobile {
+    constructor() {
+        this.nm = "Samsung";
+    }
+}
+class Model extends Mobile {
+    constructor() {
+        super(...arguments);
+        this.model = "A55";
+    }
+    change() {
+        this.nm = "Apple";
+    }
+}
+const object = new Model();
