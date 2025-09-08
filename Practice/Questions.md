@@ -39,5 +39,5 @@
 19. Write a function with an optional parameter (example: greet(name?: string)). If no name is passed, return "Hello, Guest".
 20. Write a function with a default parameter (example: multiply(a: number, b: number = 2)).
 21. Write a function that returns void (does not return anything, just logs something).
-22. Write a function with return type never (example: a function that always throws an error).
+22. Write a function with return type never (example: a function that always throws an error). // We not doing this one
 ```
