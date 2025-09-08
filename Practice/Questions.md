@@ -40,4 +40,41 @@
 20. Write a function with a default parameter (example: multiply(a: number, b: number = 2)).
 21. Write a function that returns void (does not return anything, just logs something).
 22. Write a function with return type never (example: a function that always throws an error). // We not doing this one
+
+🟢 Objects & Classes
+
+19. Create an object car with properties brand, model, and year. Print them.
+20. Write a class Person with properties name and age. Add a method introduce() that returns "Hi, I'm {name}, {age} years old.".
+21. Create a class Student that extends Person and adds a property grade. Override introduce() to also include the grade.
+22. Demonstrate the use of public, private, and protected with a class BankAccount.
+
+🟡 Constructors & Methods
+
+23. Write a class Rectangle with properties width and height. Add a method getArea() that returns the area.
+24. Create a class Circle with a radius property. Add a method getCircumference().
+25. Create a class Employee with a constructor that initializes id, name, and salary. Add a method getDetails().
+
+🔵 Inheritance & Polymorphism
+
+26. Write a class Animal with a method makeSound(). Extend it with Dog and Cat, overriding makeSound() differently.
+27. Create a base class Shape with a method area(). Extend it with Square and Triangle, each implementing area() differently.
+28. Demonstrate method overloading in TypeScript with a class Calculator.
+
+🟣 Interfaces & Abstract Classes
+
+29. Create an interface Vehicle with properties brand and speed. Implement it in a class Car.
+30. Write an abstract class Device with an abstract method powerOn(). Extend it with Laptop and Phone.
+31. Show how an interface can extend another interface with Person and Employee.
+
+🔴 Generics
+
+32. Create a generic function identity<T>(value: T): T. Test it with string and number.
+33. Write a generic class Box<T> that stores a value and has a method getValue().
+34. Create a generic function getFirst<T>(arr: T[]): T | undefined.
+
+🟤 Modules
+
+35. Create two files: mathUtils.ts and app.ts. Export a function add(a, b) from mathUtils.ts and import it in app.ts.
+36. Write a default export function greet() in one file and import it in another.
+37. Demonstrate named and default exports together in a small example.
 ```
